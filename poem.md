@@ -7,7 +7,7 @@ You have feet in your shoes<br>
 You can steer yourself<br>
 Any direction you choose.<br>
 You’re on your own. And <br>
-you know what you know.<br>
+you know what you know.<br >
 And YOU are the guy who’ll<br>
 decide where to go.<br>
 
@@ -25,4 +25,4 @@ Yes! You will, indeed!<br>
 (98 and ¾ percent guaranteed.)<br>
 
 KID, YOU’LL MOVE <br>
-MOUNTAINS!<br>
+MOUNTAINS!:sunrise_over_mountains:
